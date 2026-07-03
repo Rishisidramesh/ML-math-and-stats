@@ -1,0 +1,43 @@
+# =====================
+# VIRTUAL ENVIRONMENT
+# =====================
+venv/
+env/
+ENV/
+
+# =====================
+# PYTHON CACHE
+# =====================
+__pycache__/
+*.pyc
+
+# =====================
+# JUPYTER NOTEBOOK CHECKPOINTS
+# =====================
+.ipynb_checkpoints/
+
+# =====================
+# SYSTEM FILES
+# =====================
+.DS_Store
+Thumbs.db
+
+# =====================
+# WORD / TEMP FILES
+# =====================
+~$*.docx
+
+# =====================
+# LOG FILES
+# =====================
+*.log
+
+# =====================
+# VS CODE (optional)
+# =====================
+.vscode/
+
+# =====================
+# OPTIONAL: LARGE DATA (uncomment if needed later)
+# =====================
+# *.csv
